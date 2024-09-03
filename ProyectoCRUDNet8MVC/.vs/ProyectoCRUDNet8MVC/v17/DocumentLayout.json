@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|c:\\users\\jsalazar\\udemy\\master en asp.net 8 (.net core) mvc\\proyectocrudnet8mvc\\crudnet8mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|c:\\users\\jsalazar\\udemy\\master en asp.net 8 (.net core) mvc\\proyectocrudnet8mvc\\crudnet8mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|solutionrelative:crudnet8mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|c:\\users\\jsalazar\\udemy\\master en asp.net 8 (.net core) mvc\\proyectocrudnet8mvc\\crudnet8mvc\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|c:\\users\\jsalazar\\udemy\\master en asp.net 8 (.net core) mvc\\proyectocrudnet8mvc\\crudnet8mvc\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|c:\\users\\jsalazar\\udemy\\master en asp.net 8 (.net core) mvc\\proyectocrudnet8mvc\\crudnet8mvc\\views\\home\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\home\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|c:\\users\\jsalazar\\udemy\\master en asp.net 8 (.net core) mvc\\proyectocrudnet8mvc\\crudnet8mvc\\views\\home\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473E7740-4CFF-4AA8-8D35-B76391EA473A}|CRUDNet8MVC\\CRUDNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\home\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Views\\Home\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "CRUDNet8MVC\\Views\\Home\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Views\\Home\\Eliminar.cshtml",
+              "RelativeToolTip": "CRUDNet8MVC\\Views\\Home\\Eliminar.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwC4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:29:08.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Views\\Home\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "CRUDNet8MVC\\Views\\Home\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Views\\Home\\Detalle.cshtml",
+              "RelativeToolTip": "CRUDNet8MVC\\Views\\Home\\Detalle.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T20:53:35.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Views\\Home\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CRUDNet8MVC\\Views\\Home\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Views\\Home\\Editar.cshtml",
+              "RelativeToolTip": "CRUDNet8MVC\\Views\\Home\\Editar.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T20:22:33.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Views\\Home\\Crear.cshtml",
+              "RelativeDocumentMoniker": "CRUDNet8MVC\\Views\\Home\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Views\\Home\\Crear.cshtml",
+              "RelativeToolTip": "CRUDNet8MVC\\Views\\Home\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T19:21:51.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDNet8MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDNet8MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T16:12:21.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDNet8MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jsalazar\\Udemy\\Master en ASP.NET 8 (.NET Core) MVC\\ProyectoCRUDNet8MVC\\CRUDNet8MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDNet8MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:55:52.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

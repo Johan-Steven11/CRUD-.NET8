@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDNet8MVC", "CRUDNet8MVC\CRUDNet8MVC.csproj", "{473E7740-4CFF-4AA8-8D35-B76391EA473A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{473E7740-4CFF-4AA8-8D35-B76391EA473A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473E7740-4CFF-4AA8-8D35-B76391EA473A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473E7740-4CFF-4AA8-8D35-B76391EA473A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473E7740-4CFF-4AA8-8D35-B76391EA473A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A5AC956-48FC-40A3-A3CF-F27190181F1E}
+	EndGlobalSection
+EndGlobal

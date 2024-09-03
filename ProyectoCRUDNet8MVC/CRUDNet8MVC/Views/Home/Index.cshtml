@@ -1,0 +1,73 @@
+﻿@model IEnumerable<CRUDNet8MVC.Models.Contacto>
+@{
+    ViewData["Title"] = "Lista de Contactos";
+}
+
+<h1 class = "text-center">Contactos con .NET 8 (.NET Core MVC)</h1>
+
+<div class="row">
+    <div class= "offset-9 col-3 ,mb-3">
+        <a asp-action="Crear" asp-action="Inicio" class="btn btn-success d-block mx-auto btn-lg">
+           <i class="fa-solid fa-user-plus"></i> Nuevo Usuario
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div action="offset-12">
+        <div class="card border">
+            <div class="card-header bg-dark">
+                <h3 class= "text-white"><strong>Lista de Contactos</strong></h3>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    @* Valida que existan datos en la BD *@
+                    @if (Model.Count() > 0){
+                        <table class="table table-bordered" id="tableUsuarios" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th>@Html.DisplayNameFor(m => m.Id)</th>
+                                    <th>@Html.DisplayNameFor(m => m.Name)</th>
+                                    <th>@Html.DisplayNameFor(m => m.Telefono)</th>
+                                    <th>@Html.DisplayNameFor(m => m.Celular)</th>
+                                    <th>@Html.DisplayNameFor(m => m.Email)</th>
+                                    <th>@Html.DisplayNameFor(m => m.FechaCreacion)</th>
+                                    <th>Acciones</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @* Recorre todos los elementos de la BD y los inserta en una celda por orden de Id *@
+                        @foreach (var contacto in Model){
+                            <tr>
+                                <td>@Html.DisplayFor(m => contacto.Id)</td>
+                                <td>@Html.DisplayFor(m => contacto.Name)</td>
+                                <td>@Html.DisplayFor(m => contacto.Telefono)</td>
+                                <td>@Html.DisplayFor(m => contacto.Celular)</td>
+                                <td>@Html.DisplayFor(m => contacto.Email)</td>
+                                <td>@Html.DisplayFor(m => contacto.FechaCreacion)</td>
+                                <td>
+                                    @* Botones de CRUD (Create, Read, Update y Delete) *@
+                                    <a class="btn btn-warning" asp-action="Editar" asp-route-id="@contacto.Id">
+                                        <i class="fa-regular fa-pen-to-square"></i> Editar
+                                    </a>
+                                    <a class="btn btn-secondary" asp-action="Detalle" asp-route-id="@contacto.Id">
+                                        <i class="fa-solid fa-circle-info"></i> Detalle
+                                    </a>
+                                    <a class="btn btn-danger" asp-action="Eliminar" asp-route-id="@contacto.Id">
+                                        <i class="fa-solid fa-trash"></i> Eliminar
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                        </tbody>
+                    </table>
+                    }
+                    else
+                    {
+                        <p>No hay registros</p>
+                    }
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
